@@ -14,6 +14,9 @@
   background-color: #171821;
   border-width: 1px;
 }
+.header{
+  height: 84px;
+}
 .button1{
    width: 116px;
    height: 36px;
@@ -231,4 +234,8 @@
   background-color:#171821;
   box-shadow: h-offset v-offset blur spread color;
   border-width: 1px;
+}
+.content{
+  height:762px;
+  width:759px;
 }
