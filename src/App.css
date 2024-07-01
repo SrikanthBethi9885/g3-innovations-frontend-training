@@ -22,18 +22,20 @@
    height: 36px;
    margin-top:74px;
    margin-left: 26px;
-   background-color: #A9DFD8;
    border-radius: 6px;
+   border-style: none;
+   background-color: #171821;
+   color:#87888C;
    font-family: 'Inter', sans-serif;
    font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   padding: 9px;
+   padding-left: 15px;
 }
 .button2{
   
   width: 116px;
-   height: 36px;
+  height: 36px;
   margin-top:25px;
   border-radius: 6px;
   border-style: none;
@@ -44,7 +46,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 10px;
+   padding-right: 21px;
 }
 .button3{
   width: 116px;
@@ -59,7 +61,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-left:19px ;
 }
 .button4{
   width: 116px;
@@ -74,7 +76,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-right:25px ;
 }
 .button5{
   width: 116px;
@@ -89,7 +91,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-right: 14px;
 }
 .button6{
   width: 116px;
@@ -104,7 +106,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-left: 21px;
 }
 .button7{
   width: 116px;
@@ -119,7 +121,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-left: 9px;
 }
 .button8{
   width: 116px;
@@ -134,7 +136,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-right: 14px;
 }
 .button9{
   width: 116px;
@@ -149,7 +151,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-right: 9px;
 }
 .button10{
   width: 116px;
@@ -164,7 +166,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-right: 17px;
   
 }
 .button11{
@@ -180,7 +182,7 @@
   font-weight: 500;
    font-size: 12px;
    line-height: 14.52px;
-   gap: 9px;
+   padding-right: 17px;
   
   
 }
@@ -235,7 +237,6 @@
   box-shadow: h-offset v-offset blur spread color;
   border-width: 1px;
 }
-.content{
-  height:762px;
-  width:759px;
+button:hover{
+     background-color: #A9DFD8;
 }
