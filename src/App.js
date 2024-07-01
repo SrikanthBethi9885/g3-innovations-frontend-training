@@ -18,9 +18,11 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <Header />
         <Sidebar />
+        
         <div className="MainContent">
-          <Header />
+          
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/profile" element={<Profile />} />
