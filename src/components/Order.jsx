@@ -1,10 +1,9 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom'
 
 const Order = () => {
   return (
-    <div>Order
-      <Outlet />
+    <div>
+      <h1>Welcome to Order</h1>
     </div>
   )
 }

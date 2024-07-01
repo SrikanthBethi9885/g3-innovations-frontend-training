@@ -1,10 +1,9 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom'
 
 const Leaderboard = () => {
   return (
-    <div>Leaderboard
-      <Outlet />
+    <div>
+      <h1>Welcome to Leaderboard</h1>
     </div>
   )
 }

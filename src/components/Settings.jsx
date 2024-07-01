@@ -1,10 +1,9 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom'
 
 const Settings = () => {
   return (
-    <div>Settings
-      <Outlet />
+    <div>
+     <h1>Welcome to Settings</h1>
     </div>
   )
 }

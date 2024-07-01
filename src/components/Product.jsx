@@ -1,10 +1,9 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom'
 
 const Product = () => {
   return (
-    <div>Product
-      <Outlet />
+    <div>
+      <h1>Welcome to Product</h1>
     </div>
   )
 }

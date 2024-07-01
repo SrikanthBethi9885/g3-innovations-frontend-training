@@ -1,10 +1,9 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom'
 
 const Favourite = () => {
   return (
-    <div>Favourite
-      <Outlet />
+    <div>
+      <h1>Welcome to Favourite</h1>
     </div>
   )
 }

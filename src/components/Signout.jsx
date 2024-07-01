@@ -1,10 +1,9 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom'
 
 const Signout = () => {
   return (
-    <div>Signout
-      <Outlet />
+    <div>
+      <h1>Welcome to Signout</h1>
     </div>
   )
 }

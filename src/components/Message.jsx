@@ -3,7 +3,9 @@ import React from 'react'
 
 const Message = () => {
   return (
-    <div>Message</div>
+    <div>
+      <h1>Welcome to Message</h1>
+    </div>
   )
 }
 
