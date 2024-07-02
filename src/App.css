@@ -50,6 +50,7 @@
 .button:hover {
   background-color: #A9DFD8;
 }
+
 .MainContent {
     flex: 1;
     height: 100%;
@@ -61,3 +62,10 @@
   position: absolute;
   right:100px;
 }
+.container{
+  margin-top: 40px;
+  height: 1000px;
+  width:1200px;
+  border-color: red;
+}
+
